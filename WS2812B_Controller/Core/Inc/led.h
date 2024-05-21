@@ -1,0 +1,33 @@
+/*
+ * led.h
+ *
+ *  Created on: May 21, 2024
+ *      Author: matthew briggs
+ */
+
+#ifndef APP_INC_LED_H_
+#define APP_INC_LED_H_
+
+#include "main.h"
+
+// Defined constants
+#define CODE_1_COMPARE 51
+#define CODE_0_COMPARE 26
+#define NUM_LEDS 60 // MAX 60 LEDS
+#define NUM_COLORS 3 // 3 colors for G-R-B
+#define RESET_CODE_LENGTH 50
+#define DATA_SIZE 24
+// Global Variables
+extern uint16_t pwm_data_stream[ (NUM_LEDS * DATA_SIZE) + RESET_CODE_LENGTH];
+
+// Function prototypes / declarations
+void send_data(int led_colors[NUM_LEDS][NUM_COLORS]);
+void check_color_bounds(int* g, int* r, int* b);
+void change_color(int g, int r, int b);
+void set_color(int g, int r, int b, int led_idx, int led_colors[NUM_LEDS][NUM_COLORS]);
+
+
+
+
+
+#endif /* APP_INC_LED_H_ */

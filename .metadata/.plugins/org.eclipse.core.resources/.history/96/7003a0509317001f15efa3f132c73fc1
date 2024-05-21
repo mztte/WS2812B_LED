@@ -1,0 +1,12 @@
+/*
+ * led.c
+ *
+ *  Created on: May 21, 2024
+ *      Author: matthew briggs
+ */
+#include "led.h"
+#include "main.h"
+
+uint16_t pwm_data_stream = {0};
+void send_data(int led_colors)
+

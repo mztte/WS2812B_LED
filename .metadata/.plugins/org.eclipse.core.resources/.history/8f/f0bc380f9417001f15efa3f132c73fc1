@@ -1,0 +1,22 @@
+/*
+ * led.c
+ *
+ *  Created on: May 21, 2024
+ *      Author: matthew briggs
+ */
+#include "led.h"
+#include "main.h"
+
+uint16_t pwm_data_stream[ (NUM_LEDS * NUM_COLORS) + RESET_CODE_LENGTH] = {0};
+void send_data(int led_colors[NUM_LEDS][NUM_COLORS]) {
+	//led_colors is a 2D array where each column holds 3 colors in Green Red Blue order
+
+	uint32_t color_data = 0;
+	int stream_idx = 0; // PWM data stream index to convert the 2D array -> 1D stream of data
+
+	for( int i = 0; i < NUM_LEDS; i++ ) {
+		// For every LED, the binary should follow 24 bits. First 8 = green, next 8 = red, final 8 = blue. See WS2812B datasheet.
+		color_data =
+	}
+}
+

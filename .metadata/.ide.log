@@ -1196,3 +1196,45 @@
 2024-05-21 10:30:51,725 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 2088mS.
 2024-05-21 10:30:51,731 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
 2024-05-21 10:30:51,732 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-05-21 13:39:47,801 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 415472968 Bytes (783286272)
+2024-05-21 13:39:49,511 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 432863984 Bytes (783286272)
+2024-05-21 13:39:51,549 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 492415440 Bytes (783286272)
+2024-05-21 13:39:51,688 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-21 13:39:51,689 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-21 13:39:51,689 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-21 13:39:51,689 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-05-21 13:39:51,689 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-21 13:39:51,689 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-21 13:39:51,689 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-21 13:39:51,689 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.11.1.202404110753//db/
+2024-05-21 13:39:51,784 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/license.tmp_save
+2024-05-21 13:39:51,909 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/license.tmp
+2024-05-21 13:39:51,946 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/gpio.tmp_save
+2024-05-21 13:39:52,022 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/gpio.tmp
+2024-05-21 13:39:52,188 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma.tmp_save
+2024-05-21 13:39:52,256 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma.tmp
+2024-05-21 13:39:52,260 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma_GV.tmp_save
+2024-05-21 13:39:52,315 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma_GV.tmp
+2024-05-21 13:39:52,324 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_it.c_save
+2024-05-21 13:39:52,493 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_it.c
+2024-05-21 13:39:52,497 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_it.h_save
+2024-05-21 13:39:52,558 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_it.h
+2024-05-21 13:39:52,563 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_hal_msp.c_save
+2024-05-21 13:39:52,675 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_hal_msp.c
+2024-05-21 13:39:52,677 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/system.tmp_save
+2024-05-21 13:39:52,735 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/system.tmp
+2024-05-21 13:39:52,739 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-05-21 13:39:52,802 [INFO] CodeEngine:335 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_hal_conf.h
+2024-05-21 13:39:52,830 [WARN] IPConfigManager:3513 - IP not found : TIM
+2024-05-21 13:39:52,831 [WARN] CodeGenerator:3951 - IP not found : null
+2024-05-21 13:39:52,833 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/main.h_save
+2024-05-21 13:39:52,930 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/main.h
+2024-05-21 13:39:52,932 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/main.c_save
+2024-05-21 13:39:53,058 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/main.c
+2024-05-21 13:39:53,420 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 50mS.
+2024-05-21 13:39:53,428 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-21 13:39:53,557 [INFO] ConfigFileManager:1503 - The Die is : DIE438
+2024-05-21 13:39:54,969 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1541mS.
+2024-05-21 13:39:54,969 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-05-21 13:39:54,970 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-05-21 14:42:49,860 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

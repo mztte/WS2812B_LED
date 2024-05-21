@@ -1,0 +1,23 @@
+/*
+ * led.h
+ *
+ *  Created on: May 21, 2024
+ *      Author: matthew briggs
+ */
+
+#ifndef APP_INC_LED_H_
+#define APP_INC_LED_H_
+
+// Defined constants
+#define CODE_1_COMPARE 51
+#define CODE_0_COMPARE 26
+#define NUM_LEDS 60 // MAX 60 LEDS
+#define NUM_COLORS 3 // 3 COLORS for GRB
+
+// Function prototypes
+void send_data(int led_colors[NUM_LEDS][NUM_COLORS]);
+
+
+
+
+#endif /* APP_INC_LED_H_ */
