@@ -1152,3 +1152,47 @@
 2024-05-21 10:09:45,545 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
 2024-05-21 10:10:01,346 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
 2024-05-21 10:10:07,771 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-21 10:29:59,185 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,610x278,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-21 10:30:11,798 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-21 10:30:26,652 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-21 10:30:39,771 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 370593312 Bytes (783286272)
+2024-05-21 10:30:41,407 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 387370528 Bytes (783286272)
+2024-05-21 10:30:46,634 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 534171168 Bytes (783286272)
+2024-05-21 10:30:46,928 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-21 10:30:46,929 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-21 10:30:46,929 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-21 10:30:46,929 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F3
+2024-05-21 10:30:46,929 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-21 10:30:46,929 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-21 10:30:46,929 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-21 10:30:46,930 [INFO] CodeGenerator:807 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.11.1.202404110753//db/
+2024-05-21 10:30:47,036 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/license.tmp_save
+2024-05-21 10:30:47,273 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/license.tmp
+2024-05-21 10:30:47,313 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/gpio.tmp_save
+2024-05-21 10:30:47,414 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/gpio.tmp
+2024-05-21 10:30:47,624 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma.tmp_save
+2024-05-21 10:30:47,718 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma.tmp
+2024-05-21 10:30:47,719 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma_GV.tmp_save
+2024-05-21 10:30:47,803 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/dma_GV.tmp
+2024-05-21 10:30:47,823 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_it.c_save
+2024-05-21 10:30:48,156 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_it.c
+2024-05-21 10:30:48,169 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_it.h_save
+2024-05-21 10:30:48,237 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_it.h
+2024-05-21 10:30:48,245 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_hal_msp.c_save
+2024-05-21 10:30:48,404 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/stm32f3xx_hal_msp.c
+2024-05-21 10:30:48,407 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/system.tmp_save
+2024-05-21 10:30:48,484 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/MXTmpFiles/system.tmp
+2024-05-21 10:30:48,490 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_hal_conf.h_save
+2024-05-21 10:30:48,570 [INFO] CodeEngine:335 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/stm32f3xx_hal_conf.h
+2024-05-21 10:30:48,673 [WARN] IPConfigManager:3513 - IP not found : TIM
+2024-05-21 10:30:48,678 [WARN] CodeGenerator:3951 - IP not found : null
+2024-05-21 10:30:48,692 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/main.h_save
+2024-05-21 10:30:48,814 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Inc/main.h
+2024-05-21 10:30:48,821 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/main.c_save
+2024-05-21 10:30:49,057 [INFO] CodeEngine:279 - Generated code: /Users/matthew/Documents/WS2812B_LED/WS2812B_Controller/Core/Src/main.c
+2024-05-21 10:30:49,613 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 77mS.
+2024-05-21 10:30:49,634 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-21 10:30:49,747 [INFO] ConfigFileManager:1503 - The Die is : DIE438
+2024-05-21 10:30:51,725 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 2088mS.
+2024-05-21 10:30:51,731 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-05-21 10:30:51,732 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
